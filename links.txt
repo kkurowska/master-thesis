@@ -1,0 +1,4 @@
+- dokumentacja PyWavelets - https://pywavelets.readthedocs.io/en/latest/ref/index.html
+- edge detection with Matlab - https://www.codeproject.com/Articles/21293/Edge-Detection-in-Images-with-Wavelet-Transform
+- "Edge Detection of Noisy Images Using 2-D Discrete Wavelet Transform" - https://pdfs.semanticscholar.org/1cb2/e0f7783046443bd12963a2f4d7ac391f5f04.pdf
+- "An edge detection approach based on directional wavelet transform" - https://ac.els-cdn.com/S0898122109000492/1-s2.0-S0898122109000492-main.pdf?_tid=710222d7-37f8-48b0-98ea-ef30a39fbaa3&acdnat=1527426486_ebd7a533b0bc9c04dcebb16c7825609d
